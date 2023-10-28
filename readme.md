@@ -59,5 +59,3 @@ Click Open Folder to locate the uploaded code folder.
 Run "pedestrian_detection.py", then the system is successfully deployed on the mobile phone.
 
 ![1698492111823](image/readme/1698492111823.png)
-
-文件说明
